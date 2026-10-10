@@ -1,1 +1,4 @@
 print("Hii this is Harsha")
+a = 10
+b = 15
+print(a+b)
